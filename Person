@@ -1,0 +1,23 @@
+class Person
+{
+int amount = 10000;
+public static void main(String[] args)
+{
+Person person = new Person();
+person.shopping();
+person.travel();
+
+}
+public void travel()
+{
+System.out.println(amount);
+}
+
+public void shopping()
+{
+System.out.println(amount);
+amount = amount - 1000;
+System.out.println(amount);
+}
+
+}

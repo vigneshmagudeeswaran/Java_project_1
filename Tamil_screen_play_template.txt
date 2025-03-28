@@ -1,0 +1,74 @@
+story 
+
+Director ->> 
+what director wants to convey on this story?
+why this story?
+	is any fantacy (ex:super power) moving the story?
+	who is going to move the story?
+	hero and actions around him?
+	villan and action around him?
+	society and actions around them?
+ scenes to achive the story with convincing logic?
+  	what makes the scenes covincing? 
+  	  1) continuty
+  	  2) scene should match the sorunding and time
+  	  3) if you're going to break some logic you need to set the audiance for that before.some   times we need to place some illogical things in our story in that case in previous scenes we need to place some hints for that?
+    how to build the scenes?
+       
+ 
+
+basic elements to build the scene :
+	things coming from the previous scene
+ place 
+ time 
+ sourrondings
+ purpose of the scene
+
+
+Thyagaranjan kumararaja
+1)Aim of the scene
+2)don't think about actor and making scene
+
+
+
+example: aravan
+
+story: The person who got his death sentence 
+
+
+
+
+Certainly! Writing a screenplay is a creative process that involves several steps. Here's a step-by-step template to help you get started:
+
+Step 1: Define Your Story Idea
+Conceptualization: Come up with a unique and compelling story idea that interests you. It could be inspired by personal experiences, existing stories, or current events.
+Genre Selection: Decide on the genre of your screenplay (e.g., drama, comedy, thriller, romance, sci-fi).
+Logline: Write a brief one or two-sentence summary of your story idea that captures its essence and hook.
+Step 2: Character Development
+Main Characters: Identify the main characters in your story, including the protagonist (main character), antagonist (opposing force), and other significant characters.
+Character Profiles: Create detailed profiles for each character, including their background, motivations, goals, flaws, and character arcs.
+Relationships: Define the relationships between characters and how they evolve throughout the story.
+Step 3: Story Structure
+Three-Act Structure: Plan the overall structure of your screenplay using the three-act structure (setup, confrontation, resolution).
+Plot Points: Identify key plot points, including the inciting incident, midpoint, climax, and resolution.
+Subplots: Develop subplots that complement the main storyline and add depth to the narrative.
+Step 4: Outlining
+Scene-by-Scene Outline: Create a scene-by-scene outline of your screenplay, detailing the sequence of events, character actions, and dialogue for each scene.
+Storyboarding: Optionally, create storyboards or visual representations of key scenes to help visualize the story.
+Step 5: Writing
+Formatting: Familiarize yourself with screenplay formatting guidelines (e.g., screenplay software like Final Draft, Celtx) and start writing your screenplay following industry standards.
+Dialogue: Write authentic and engaging dialogue that reflects each character's personality and advances the plot.
+Action Description: Use concise and descriptive action lines to convey visual and narrative elements of the story.
+Step 6: Revision
+First Draft: Complete the first draft of your screenplay, focusing on getting your ideas down on paper without worrying too much about perfection.
+Feedback: Seek feedback from trusted peers, mentors, or writing groups to identify strengths, weaknesses, and areas for improvement.
+Rewriting: Revise and refine your screenplay based on feedback, addressing plot holes, pacing issues, character inconsistencies, and other concerns.
+Step 7: Polishing
+Grammar and Spelling: Proofread your screenplay for grammar, spelling, and punctuation errors.
+Formatting Check: Ensure your screenplay adheres to industry-standard formatting guidelines.
+Final Touches: Make final adjustments to dialogue, action lines, and scene descriptions to enhance readability and clarity.
+Step 8: Finalization
+Title Selection: Choose a compelling and fitting title for your screenplay that captures its essence.
+Registration: Optionally, register your screenplay with a relevant copyright office or screenwriting organization to protect your work.
+Pitching: Prepare a logline and synopsis to pitch your screenplay to agents, producers, or production companies.
+By following these steps, you can effectively develop and write a screenplay from initial concept to final draft. Remember that the process may vary for each writer, so feel free to adapt and customize the template to suit your creative preferences and storytelling style.
