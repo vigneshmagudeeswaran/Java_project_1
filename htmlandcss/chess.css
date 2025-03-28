@@ -1,0 +1,19 @@
+.board {
+  height: 400px;
+  width: 400px;
+  display: block;
+  border: 5px solid brown;
+}
+.piece-square {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  float: left;
+}
+
+.light-square {
+  background: white;
+}
+.dark-square {
+  background: brown;
+}

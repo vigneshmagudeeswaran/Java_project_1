@@ -1,0 +1,101 @@
+*
+{
+margin: 0;
+padding:0;
+}
+
+body
+{
+background:#abc;
+color: #111;
+font-family: sans-serif;
+font-weight: 500;
+font-size:14px;
+line-height: 20px;
+}
+
+.container
+{
+background:white;
+margin: 20px;
+padding: 20px;
+border-radius: 10px;
+}
+
+.name
+{
+ font-size:35px;
+ text-transform:uppercase;
+ margin-bottom:10px;
+}
+
+.first-name
+{
+font-weight: 600;
+}
+
+.last-name
+{
+font-weight: 300;
+}
+
+.email, .mobile
+{
+color: #898;
+font-weight: 400;
+margin-bottom:20px;
+}
+
+.obj
+{
+font-weight: bold;
+text-decoration:underline;
+margin-right:20px;
+}
+.email-detail
+{
+text-decoration:none;
+color:#000;
+
+}
+.email-detail:hover
+{
+text-decoration:underline;
+color:#f0f0f0;
+
+}
+
+.career
+{
+line-height: 25px;
+
+.exp-title
+{
+color: #7359e6;
+font-weight: bold;
+text-transform:uppercase;
+letter-spacing: 3px;
+}
+.experience-details-left
+{
+margin-bottom: 30px;
+width:50%;
+}
+
+.experience-details-right
+{
+text-align: right;
+margin-bottom: 30px;
+width:30%;
+}
+.experience-details-left,.experience-details-right{
+display:inline-block;
+}
+
+}
+
+experience-details
+{
+margin-bottom: 30px;
+width:50%;
+}

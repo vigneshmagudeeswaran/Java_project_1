@@ -1,0 +1,27 @@
+<html>
+<head>
+<title> Registration Form </title>
+</head>
+<body>
+<form>
+User:<input type="text" id="username" >
+</input>
+Display:<p id="display_username">
+</p>
+<input type="button" id ="enter" value="Submit"> </input>
+</form>
+
+<select onchange="alert(this.value)">
+<option value="1"> Red </option>
+<option value="2"> Green </option>
+<option value="3"> Blue </option>
+
+</select>
+</body>
+<script>
+document.getElementById('enter').addEventListener("click",function()
+{
+display_username.innerHTML = username.value;
+});
+</script>
+</html>

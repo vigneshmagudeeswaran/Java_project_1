@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<h1> Image Slider / Carousel </h1>
+<img src="/home/muthu/Documents/CSS/linux.jpeg" id="photo1" width=300 height=400>
+<br> <br><br>
+<button onclick="show_previous()"> Previous </button>
+<button onclick="show_next()"> Next </button>
+
+<script>
+photos = ["gplaybutton.jpeg","applebutton.jpeg","image.jpeg"]
+location =  document.getElementById("photo1");
+function show_previous()
+{
+location.src = photos[1];
+alert("previous");
+}
+
+function show_next()
+{
+location.src = photos[2];
+alert("next");
+}
+
+</script>
+</body>
+
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<h1> Image Slider / Carousel </h1>
+<img src="img1.jpeg" id="photo1" width=300 height=400>
+<br> <br><br>
+<button onclick="show_previous()"> Previous </button>
+<button onclick="show_next()"> Next </button>
+
+<script>
+photos = ["img1.jpg","img2.jpg","img3.jpg"];
+position =  document.getElementById("photo1");
+
+function show_previous()
+{
+position.src = photos[1];
+}
+
+function show_next()
+{
+position.src = photos[2];
+}
+
+</script>
+</body>
+</html>
